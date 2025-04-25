@@ -1,0 +1,24 @@
+# Author: Ben Pelletier
+# Date: April 25, 2025
+
+(\.|^)pubads\.g\.doubleclick\.net$
+(\.|^)googleadservices\.com$
+cbsi.com.ssl.sc.omtrdc.net
+vod-gcs-cedexis.cbsaavideo.com
+manifest.production-public.tubi.io
+lb.production-public.tubi.io
+uapi.adrise.tv
+(\.|^)cws\.conviva\.com$
+(\.|^)scorecardresearch\.com$
+cws.conviva.com
+87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com
+pluralism.themancav.com
+advertising.twitter.com
+ads.youtube.com
+saa.paramountplus.com
+cbs.hb-api.omtrdc.net
+int.vaicore.site
+tags.tiqcdn.com
+cdn.cookielaw.org
+control.kochava.com
+cdn-media.brightline.tv
